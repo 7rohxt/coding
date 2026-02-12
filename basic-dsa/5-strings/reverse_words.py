@@ -63,8 +63,12 @@ def reverse_words(s):
     if word:
         words.append(word)
 
-    result = " ".join(words[::-1])
-    return result
+    # result = " ".join(words[::-1]) # lets try without join
+    reversed_words = words[::-1]
+    result = ""
+    for wrd in reversed_words:
+        result += wrd +" "
+    return result.strip()
 
 
 print(reverse_words("Hello world"))
