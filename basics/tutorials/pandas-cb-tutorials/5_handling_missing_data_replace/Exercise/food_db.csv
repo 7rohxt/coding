@@ -1,0 +1,11 @@
+food_id,name,discount,price,rating
+1,Butter Chicken,10%,$12.99,Excellent
+2,Masala Dosa,5%,$7.50,Good
+3,Biryani,15%,$15.99,Excellent
+4,Chaat,20%,$3.99,Average
+5,Samosas,10%,$2.50,Good
+6,Chole Bhature,5%,$8.99,Excellent
+7,Paneer Tikka,10%,$10.99,Very Good
+8,Idli-Sambar,15%,$6.99,Good
+9,Rogan Josh,10%,$16.99,Excellent
+10,Lassi,5%,$3.50,Average

@@ -1,0 +1,38 @@
+movie_id,title,industry,language,release_year,imdb_rating,studio,budget,revenue,unit,currency
+101,K.G.F: Chapter 2,Bollywood,Kannada,2022,8.4,Hombale Films,1,12.5,Billions,INR
+102,Doctor Strange in the Multiverse of Madness,Hollywood,English,2022,7,Marvel Studios,200,954.8,Millions,USD
+103,Thor: The Dark World ,Hollywood,English,2013,6.8,Marvel Studios,165,644.8,Millions,USD
+104,Thor: Ragnarok ,Hollywood,English,2017,7.9,Marvel Studios,180,854,Millions,USD
+105,Thor: Love and Thunder ,Hollywood,English,2022,6.8,Marvel Studios,250,670,Millions,USD
+111,The Shawshank Redemption,Hollywood,English,1994,9.3,Castle Rock Entertainment,25,73.3,Millions,USD
+113,Interstellar,Hollywood,English,2014,8.6,Warner Bros. Pictures,165,701.8,Millions,USD
+115,The Pursuit of Happyness,Hollywood,English,2006,8,Columbia Pictures,55,307.1,Millions,USD
+116,Gladiator,Hollywood,English,2000,8.5,Universal Pictures  ,103,460.5,Millions,USD
+117,Titanic,Hollywood,English,1997,7.9,Paramount Pictures,200,2202,Millions,USD
+118,It's a Wonderful Life,Hollywood,English,1946,8.6,Liberty Films,3.18,3.3,Millions,USD
+119,Avatar,Hollywood,English,2009,7.8,20th Century Fox,237,2847,Millions,USD
+120,The Godfather,Hollywood,English,1972,9.2,Paramount Pictures,7.2,291,Millions,USD
+121,The Dark Knight,Hollywood,English,2008,9,Syncopy,185,1006,Millions,USD
+122,Schindler's List,Hollywood,English,1993,9,Universal Pictures,22,322.2,Millions,USD
+123,Jurassic Park,Hollywood,English,1993,8.2,Universal Pictures,63,1046,Millions,USD
+124,Parasite,Hollywood,English,2019,8.5,,15.5,263.1,Millions,USD
+125,Avengers: Endgame,Hollywood,English,2019,8.4,Marvel Studios,400,2798,Millions,USD
+126,Avengers: Infinity War,Hollywood,English,2018,8.4,Marvel Studios,400,2048,Millions,USD
+137,Captain America: The First Avenger,Hollywood,English,2011,6.9,Marvel Studios,216.7,370.6,Millions,USD
+138,Captain America: The Winter Soldier,Hollywood,English,2014,7.8,Marvel Studios,177,714.4,Millions,USD
+107,Dilwale Dulhania Le Jayenge,Bollywood,Hindi,1995,8,Yash Raj Films,400,2000,Millions,INR
+108,3 Idiots,Bollywood,Hindi,2009,8.4,Vinod Chopra Films,550,4000,Millions,INR
+109,Kabhi Khushi Kabhie Gham,Bollywood,Hindi,2001,7.4,Dharma Productions,390,1360,Millions,INR
+110,Bajirao Mastani ,Bollywood,Hindi,2015,7.2,,1.4,3.5,Billions,INR
+128,Taare Zameen Par,Bollywood,Hindi,2007,8.3,,120,1350,Millions,INR
+129,Munna Bhai M.B.B.S.,Bollywood,Hindi,2003,8.1,Vinod Chopra Productions,100,410,Millions,INR
+130,PK,Bollywood,Hindi,2014,8.1,Vinod Chopra Films,850,8540,Millions,INR
+131,Sanju,Bollywood,Hindi,2018,,Vinod Chopra Films,1,5.9,Billions,INR
+135,The Kashmir Files,Bollywood,Hindi,2022,8.3,Zee Studios,250,3409,Millions,INR
+136,Bajrangi Bhaijaan,Bollywood,Hindi,2015,8.1,Salman Khan Films,900,11690,Millions,INR
+139,Race 3,Bollywood,Hindi,2018,1.9,Salman Khan Films,1.8,3.1,Billions,INR
+140,Shershaah,Bollywood,Hindi,2021,8.4,Dharma Productions,500,950,Millions,INR
+127,Pather Panchali,Bollywood,Bengali,1955,8.3,Government of West Bengal,70000,100000,Thousands,INR
+132,Pushpa: The Rise - Part 1,Bollywood,Telugu,2021,7.6,Mythri Movie Makers,2,3.6,Billions,INR
+133,RRR,Bollywood,Telugu,2022,8,DVV Entertainment,5.5,12,Billions,INR
+134,Baahubali: The Beginning,Bollywood,Telugu,2015,8,Arka Media Works,1.8,6.5,Billions,INR

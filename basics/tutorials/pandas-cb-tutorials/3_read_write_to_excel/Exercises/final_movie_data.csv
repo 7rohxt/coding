@@ -1,0 +1,38 @@
+movie_id,title,budget,revenue,year_classify
+101,K.G.F: Chapter 2,1.0,12.5,From 2000
+102,Doctor Strange in the Multiverse of Madness,200.0,954.8,From 2000
+103,Thor: The Dark World ,165.0,644.8,From 2000
+104,Thor: Ragnarok ,180.0,854.0,From 2000
+105,Thor: Love and Thunder ,250.0,670.0,From 2000
+111,The Shawshank Redemption,25.0,73.3,before 2000
+113,Interstellar,165.0,701.8,From 2000
+115,The Pursuit of Happyness,55.0,307.1,From 2000
+116,Gladiator,103.0,460.5,From 2000
+117,Titanic,200.0,2202.0,before 2000
+118,It's a Wonderful Life,3.18,3.3,before 2000
+119,Avatar,237.0,2847.0,From 2000
+120,The Godfather,7.2,291.0,before 2000
+121,The Dark Knight,185.0,1006.0,From 2000
+122,Schindler's List,22.0,322.2,before 2000
+123,Jurassic Park,63.0,1046.0,before 2000
+124,Parasite,15.5,263.1,From 2000
+125,Avengers: Endgame,400.0,2798.0,From 2000
+126,Avengers: Infinity War,400.0,2048.0,From 2000
+137,Captain America: The First Avenger,216.7,370.6,From 2000
+138,Captain America: The Winter Soldier,177.0,714.4,From 2000
+107,Dilwale Dulhania Le Jayenge,400.0,2000.0,before 2000
+108,3 Idiots,550.0,4000.0,From 2000
+109,Kabhi Khushi Kabhie Gham,390.0,1360.0,From 2000
+110,Bajirao Mastani ,1.4,3.5,From 2000
+128,Taare Zameen Par,120.0,1350.0,From 2000
+129,Munna Bhai M.B.B.S.,100.0,410.0,From 2000
+130,PK,850.0,8540.0,From 2000
+131,Sanju,1.0,5.9,From 2000
+135,The Kashmir Files,250.0,3409.0,From 2000
+136,Bajrangi Bhaijaan,900.0,11690.0,From 2000
+139,Race 3,1.8,3.1,From 2000
+140,Shershaah,500.0,950.0,From 2000
+127,Pather Panchali,70000.0,100000.0,before 2000
+132,Pushpa: The Rise - Part 1,2.0,3.6,From 2000
+133,RRR,5.5,12.0,From 2000
+134,Baahubali: The Beginning,1.8,6.5,From 2000

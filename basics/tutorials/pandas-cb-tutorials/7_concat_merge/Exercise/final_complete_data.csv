@@ -1,0 +1,40 @@
+,movie_id,title,lang_name,budget,revenue,currency
+0,101,K.G.F: Chapter 2,Kannada,1.0,12.5,INR
+1,102,Doctor Strange in the Multiverse of Madness,English,200.0,954.8,USD
+2,103,Thor: The Dark World ,English,165.0,644.8,USD
+3,104,Thor: Ragnarok ,English,180.0,854.0,USD
+4,105,Thor: Love and Thunder ,English,250.0,670.0,USD
+5,111,The Shawshank Redemption,English,25.0,73.3,USD
+6,112,Inception,English,,,
+7,113,Interstellar,English,165.0,701.8,USD
+8,115,The Pursuit of Happyness,English,55.0,307.1,USD
+9,116,Gladiator,English,103.0,460.5,USD
+10,117,Titanic,English,200.0,2202.0,USD
+11,118,It's a Wonderful Life,English,3.18,3.3,USD
+12,119,Avatar,English,237.0,2847.0,USD
+13,120,The Godfather,English,7.2,291.0,USD
+14,121,The Dark Knight,English,185.0,1006.0,USD
+15,122,Schindler's List,English,22.0,322.2,USD
+16,123,Jurassic Park,English,63.0,1046.0,USD
+17,124,Parasite,English,15.5,263.1,USD
+18,125,Avengers: Endgame,English,400.0,2798.0,USD
+19,126,Avengers: Infinity War,English,400.0,2048.0,USD
+20,137,Captain America: The First Avenger,English,216.7,370.6,USD
+21,138,Captain America: The Winter Soldier,English,177.0,714.4,USD
+22,106,Sholay,Hindi,,,
+23,107,Dilwale Dulhania Le Jayenge,Hindi,400.0,2000.0,INR
+24,108,3 Idiots,Hindi,550.0,4000.0,INR
+25,109,Kabhi Khushi Kabhie Gham,Hindi,390.0,1360.0,INR
+26,110,Bajirao Mastani ,Hindi,1.4,3.5,INR
+27,128,Taare Zameen Par,Hindi,120.0,1350.0,INR
+28,129,Munna Bhai M.B.B.S.,Hindi,100.0,410.0,INR
+29,130,PK,Hindi,850.0,8540.0,INR
+30,131,Sanju,Hindi,1.0,5.9,INR
+31,135,The Kashmir Files,Hindi,250.0,3409.0,INR
+32,136,Bajrangi Bhaijaan,Hindi,900.0,11690.0,INR
+33,139,Race 3,Hindi,1.8,3.1,INR
+34,140,Shershaah,Hindi,500.0,950.0,INR
+35,127,Pather Panchali,Bengali,70000.0,100000.0,INR
+36,132,Pushpa: The Rise - Part 1,Telugu,2.0,3.6,INR
+37,133,RRR,Telugu,5.5,12.0,INR
+38,134,Baahubali: The Beginning,Telugu,1.8,6.5,INR
