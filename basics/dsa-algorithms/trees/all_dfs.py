@@ -60,3 +60,16 @@ def postOrder(node):
     print(node)
 
 # print(postOrder(A))
+
+def preOrderIterative(node):
+    stk = [node]
+    
+    while stk:
+        node = stk.pop()
+        print(node)
+        if node.right:
+            stk.append(node.right)
+        if node.left:
+            stk.append(node.left)
+
+print(preOrderIterative(A))
